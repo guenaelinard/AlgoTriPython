@@ -61,14 +61,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\guenael.inard\PycharmProjects\AlgoTri\.venv\Algo\" />
+      <recent name="C:\Users\guenael.inard\PycharmProjects\AlgoTri\.venv\AlgoTraveller\" />
       <recent name="C:\Users\guenael.inard\PycharmProjects\AlgoTri" />
+      <recent name="C:\Users\guenael.inard\PycharmProjects\AlgoTri\.venv\Algo\" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,6 +97,11 @@
       <workItem from="1707467146269" duration="14596000" />
       <workItem from="1707724090812" duration="12764000" />
       <workItem from="1707811166615" duration="17207000" />
+      <workItem from="1707897542145" duration="69000" />
+      <workItem from="1707897635425" duration="1014000" />
+      <workItem from="1707898667933" duration="20963000" />
+      <workItem from="1707926760625" duration="368000" />
+      <workItem from="1707984717984" duration="7796000" />
     </task>
     <servers />
   </component>
@@ -111,56 +117,31 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>147</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>135</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>121</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>163</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>179</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>184</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
-          <line>188</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/.venv/Algo/quick_sort.py</url>
           <line>5</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/AlgoTraveller/nearest_neighbour.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="27" />
+          <url>file://$PROJECT_DIR$/.venv/tri_villes.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="optimizedPathArray" language="Python" />
         <watch expression="positionsArray" language="Python" />
+        <watch expression="tempArray" />
+        <watch expression="optimizedPath" />
+        <watch expression="value" />
+        <watch expression="temp" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -168,12 +149,12 @@
     <SUITE FILE_PATH="coverage/AlgoTri$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1707484247200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
     <SUITE FILE_PATH="coverage/AlgoTri$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1707484233168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
     <SUITE FILE_PATH="coverage/AlgoTri$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1707484252867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
-    <SUITE FILE_PATH="coverage/AlgoTri$tri_villes.coverage" NAME="tri_villes Coverage Results" MODIFIED="1707839360107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/AlgoTri$tri_villes.coverage" NAME="tri_villes Coverage Results" MODIFIED="1707909021895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/AlgoTri$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1707745913440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
-    <SUITE FILE_PATH="coverage/AlgoTri$nearest_neighbour.coverage" NAME="nearest_neighbour Coverage Results" MODIFIED="1707835246032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
+    <SUITE FILE_PATH="coverage/AlgoTri$nearest_neighbour.coverage" NAME="nearest_neighbour Coverage Results" MODIFIED="1707990825005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
     <SUITE FILE_PATH="coverage/AlgoTri$Algo.coverage" NAME="Algo Coverage Results" MODIFIED="1707402446659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/AlgoTri$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1707736309138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
     <SUITE FILE_PATH="coverage/AlgoTri$recursivity.coverage" NAME="recursivity Coverage Results" MODIFIED="1707473495866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
-    <SUITE FILE_PATH="coverage/AlgoTri$glouton_sort.coverage" NAME="glouton_sort Coverage Results" MODIFIED="1707818300849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
+    <SUITE FILE_PATH="coverage/AlgoTri$glouton_sort.coverage" NAME="glouton_sort Coverage Results" MODIFIED="1707990836531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
   </component>
 </project>
