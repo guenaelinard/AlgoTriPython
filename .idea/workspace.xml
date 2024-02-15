@@ -35,7 +35,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="e27f04f2-91e8-4954-bb44-e625efdf3d1e" />
-        <option name="url" value="git@github.com:guenaelinard/AlgoTriVille.git" />
+        <option name="url" value="git@github.com:guenaelinard/AlgoTriPython.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -71,7 +71,7 @@
     "Python.tri_villes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/guenael.inard/Downloads/NyanProgressBar.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -118,7 +118,7 @@
       <workItem from="1707897635425" duration="1014000" />
       <workItem from="1707898667933" duration="20963000" />
       <workItem from="1707926760625" duration="368000" />
-      <workItem from="1707984717984" duration="8430000" />
+      <workItem from="1707984717984" duration="9080000" />
     </task>
     <task id="LOCAL-00001" summary="glouton done and functionnal">
       <option name="closed" value="true" />
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707993155793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="glouton done and functionnal">
+      <option name="closed" value="true" />
+      <created>1707993696537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707993696537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,10 +200,10 @@
     <SUITE FILE_PATH="coverage/AlgoTri$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1707484252867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
     <SUITE FILE_PATH="coverage/AlgoTri$tri_villes.coverage" NAME="tri_villes Coverage Results" MODIFIED="1707909021895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/AlgoTri$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1707745913440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
-    <SUITE FILE_PATH="coverage/AlgoTri$nearest_neighbour.coverage" NAME="nearest_neighbour Coverage Results" MODIFIED="1707990825005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
+    <SUITE FILE_PATH="coverage/AlgoTri$nearest_neighbour.coverage" NAME="nearest_neighbour Coverage Results" MODIFIED="1707994339379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
     <SUITE FILE_PATH="coverage/AlgoTri$Algo.coverage" NAME="Algo Coverage Results" MODIFIED="1707402446659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/AlgoTri$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1707736309138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
     <SUITE FILE_PATH="coverage/AlgoTri$recursivity.coverage" NAME="recursivity Coverage Results" MODIFIED="1707473495866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Algo" />
-    <SUITE FILE_PATH="coverage/AlgoTri$glouton_sort.coverage" NAME="glouton_sort Coverage Results" MODIFIED="1707990836531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
+    <SUITE FILE_PATH="coverage/AlgoTri$glouton_sort.coverage" NAME="glouton_sort Coverage Results" MODIFIED="1707993953690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/AlgoTraveller" />
   </component>
 </project>
